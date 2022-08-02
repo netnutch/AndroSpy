@@ -11,6 +11,8 @@ AndroSpy Provides no warranty with this software and will not be responsible for
 AndroSpy is built for both EDUCATIONAL and INTERNAL use ONLY.    
 
 
+
+
 <img src="https://user-images.githubusercontent.com/45147475/110235549-ae5f1200-7f41-11eb-8fbc-40beb79ecff5.PNG" width="55%"></img>  
     
 Your Visual Studio must have Xamarin Developing Kit, otherwise you can't build client.  

@@ -1,27 +1,19 @@
-# AndroSpy - Xamarin-C# Android RAT  
+# AndroSpy - Xamarin-C# Android Remote Control Ability Software  
 
-For V.I.P Help Service, customizable version etc, contact me on Telegram Messenger: @v_for_vandet  
+<img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>  
 
-if you like project, you can donate me with BTC:    39SbutynB6WT4LcPKcbSJGeJHiHRGBrZqi
+THRE WILL BE NO MORE UPDATES OR SUPPORT, PROJECT IS SHUTDOWNED FOREVER BECAUSE OF SOME LEGAL PROBLEMS.  
+
+<img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>  
+
+# Legal Disclaimer
+
+AndroSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
+AndroSpy is built for both EDUCATIONAL and INTERNAL use ONLY.
 
 <img src="https://user-images.githubusercontent.com/45147475/89324496-096d1580-d690-11ea-86d2-1b8b1d484d35.png" width="25%"></img>   
 
-An Android RAT that written in completely C# by me.
-
 <img src="https://user-images.githubusercontent.com/45147475/110235549-ae5f1200-7f41-11eb-8fbc-40beb79ecff5.PNG" width="55%"></img>  
-
-Yes, It is supporting dns connection like no-ip or duckdns or dynu etc. and it has been tested with ngrok and portmap.io; it is working with both but you can't hear live mic because of UDP port. (only on Public version of AndroSpy)  
-
-If you want Live Microphone with TCP, write me on my Telegram Messenger. (In this manner you can hear Live Microphone on TCP with ngrok, portmap.io etc. but with UDP you can't.)  
-
-
-Private Version includes (we supports all cryptocurrencies like BTC, USDT etc.):  
-
-+ Live Microphone with TCP. (You can hear Live Microphone with connection on ngrok, portmap.io etc.)  
- 
-
-  
-    
     
 Your Visual Studio must have Xamarin Developing Kit, otherwise you can't build client.  
 

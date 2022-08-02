@@ -4,7 +4,8 @@
 
 THRE WILL BE NO MORE UPDATES OR SUPPORT, PROJECT IS SHUTDOWNED FOREVER BECAUSE OF SOME LEGAL PROBLEMS.  
 
-<img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>  # Legal Disclaimer
+<img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>  
+# Legal Disclaimer
 
 AndroSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 AndroSpy is built for both EDUCATIONAL and INTERNAL use ONLY.

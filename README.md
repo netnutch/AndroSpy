@@ -8,7 +8,8 @@ THRE WILL BE NO MORE UPDATES OR SUPPORT, PROJECT IS SHUTDOWNED FOREVER BECAUSE O
 # Legal Disclaimer
 
 AndroSpy Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-AndroSpy is built for both EDUCATIONAL and INTERNAL use ONLY.
+AndroSpy is built for both EDUCATIONAL and INTERNAL use ONLY.  
+
 
 <img src="https://user-images.githubusercontent.com/45147475/89324496-096d1580-d690-11ea-86d2-1b8b1d484d35.png" width="25%"></img>   
 

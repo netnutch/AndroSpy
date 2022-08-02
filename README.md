@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>  
 
-THRE WILL BE NO MORE UPDATES OR SUPPORT, THE PROJECT IS SHUTDOWNED FOREVER BECAUSE OF SOME LEGAL PROBLEMS.  
+THRE WILL BE NO MORE UPDATES OR SUPPORT, THE PROJECT IS SHUTDOWNED FOREVER BECAUSE OF SOME LEGAL PROBLEMS. Do not trust the fake accounts opened in my name, it has been 1 year since the project ended. They are scammers. Stay with C Sharp, stay with programming..  
 
 <img src="https://user-images.githubusercontent.com/45147475/182385309-add737c2-010b-453a-b547-28499a8a2fe8.png" width="13%"></img>
 # Legal Disclaimer
